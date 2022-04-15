@@ -1,0 +1,21 @@
+
+
+    *** Asynchronous Basics in Node js ***
+
+  ** Asynchronous amd Synchronous 
+
+  ** Synchronous :- In Synchronous operation tasks are performed one at a time 
+       [ USER ] [ PRODUCT ] [ CITIES ]
+
+       So, here first performed in USER all tasks then moved on second tasks
+
+
+  ** Asynchronous :- In Asynchronous operation, second tasks not wait to finish first tasks
+
+       [ USER ]
+        [ PRODUCT ]
+         [ CITIES ]
+
+       So, here performed all task at a time and jisme sabse kam data hoga uska output sabse pahile 
+         show krega 
+         
